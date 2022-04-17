@@ -20,10 +20,14 @@ namespace_imports = [
     'vendor/samsung/sm7325-common',
     'vendor/qcom/opensource/display',
     'hardware/qcom-caf/sm8350',
+    'hardware/samsung',
 ]
 
 
 blob_fixups: blob_fixups_user_type = {
+    ('vendor/lib/hw/audio.primary.lahaina.so'): blob_fixup()
+        .add_needed('libshim_samsungaudioparams.so')
+        .binary_regex_replace(b'str_parms_get_int', b'str_parms_get_mod'),
     'vendor/lib64/hw/camera.qcom.so': blob_fixup()
         .binary_regex_replace(b'ro.boot.flash.locked', b'ro.camera.notify_nfc'),
     'vendor/lib64/hw/com.qti.chi.override.so': blob_fixup()
