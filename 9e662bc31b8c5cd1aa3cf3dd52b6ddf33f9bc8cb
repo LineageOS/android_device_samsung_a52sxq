@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "52d9f8f9_bd20ada0",
+        "filename": "extract-files.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 25276
+      },
+      "writtenOn": "2023-07-01T19:14:11Z",
+      "side": 1,
+      "message": "should shorten this somehow",
+      "range": {
+        "startLine": 17,
+        "startChar": 12,
+        "endLine": 17,
+        "endChar": 277
+      },
+      "revId": "9e662bc31b8c5cd1aa3cf3dd52b6ddf33f9bc8cb",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
