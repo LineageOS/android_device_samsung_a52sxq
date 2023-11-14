@@ -1,1 +1,2 @@
+require board=lahaina|a52sxq
 require version-bootloader-min=D
