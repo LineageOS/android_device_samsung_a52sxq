@@ -1,7 +1,7 @@
 # All blobs are from A528BXXSBGYI3 (U), unless pinned
 
 # Audio
-vendor/lib/hw/audio.primary.lahaina.so
+vendor/lib/hw/audio.primary.lahaina.so:odm/lib/hw/audio.primary.lahaina.so;MODULE_SUFFIX=_odm
 vendor/lib/libspeakercalibration.so
 vendor/firmware/dax_param.bin
 
