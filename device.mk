@@ -37,3 +37,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     sensors.a52sxq
+
+# UDFPS
+$(call soong_config_set,surfaceflinger,udfps_lib,//$(LOCAL_PATH):libudfps_extension.a52sxq)
