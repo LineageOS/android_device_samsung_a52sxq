@@ -33,6 +33,24 @@
       "message": "Pick this first https://review.lineageos.org/q/I3025daa2dda7048788f9a9db40ea3e5e1daf2608",
       "revId": "d3667b176d70e35672a742520f971a1173947690",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8ca49895_c5cef716",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35721
+      },
+      "writtenOn": "2025-08-15T11:30:00Z",
+      "side": 1,
+      "message": "Yeah, I picked it",
+      "parentUuid": "41358f39_678fff41",
+      "revId": "d3667b176d70e35672a742520f971a1173947690",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
