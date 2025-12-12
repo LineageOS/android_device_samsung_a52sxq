@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f69a22ae_913c5e10",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 36300
+      },
+      "writtenOn": "2025-12-12T17:53:28Z",
+      "side": 1,
+      "message": "This has to be done in the other devices as well. I will do it once I\u0027m done working on proprietary files",
+      "revId": "4d5a7ac3412acf7e5feefffc3513afc986adb26f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
