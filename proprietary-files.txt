@@ -1,4 +1,4 @@
-# All blobs are from A528BXXUAGXK8 (U), unless pinned
+# All blobs are from A528BXXSBGYI3 (U), unless pinned
 
 # Audio
 vendor/lib/hw/audio.primary.lahaina.so
@@ -27,8 +27,8 @@ vendor/etc/audconf/OPEN/Handset_cal.acdb
 vendor/firmware/bt_nvm_loading.xml
 
 # Camera
-vendor/lib64/hw/camera.qcom.so|26cea3ebddc2694d539d34fec16277ca13251816
-vendor/lib64/hw/com.qti.chi.override.so|b4daaa080c3a3a7cea042a1b9427c8f862a25c61
+vendor/lib64/hw/camera.qcom.so|01a88f265358a7f3a0d3ae8400426261b997cc05|77cc1633c31d6a5236e4ceeed5b0f1565c55a2d9
+vendor/lib64/hw/com.qti.chi.override.so|e30e421d91d964d9612aeca8f96f0eac3ba37d65|e5ae159cd2ca2cb4e568101d831eecb2443e1e82
 vendor/lib64/camera/com.samsung.sensormodule.1_0_lsi_s5kgd2.bin
 vendor/lib64/camera/t_t10_dual_calibration.bin
 vendor/lib64/camera/com.samsung.tuned.lsi_s5k3l6.bin
