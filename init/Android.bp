@@ -9,3 +9,10 @@ prebuilt_etc {
     sub_dir: "init/hw",
     soc_specific: true,
 }
+
+prebuilt_etc {
+    name: "wifi_firmware.rc",
+    src: "wifi_firmware.rc",
+    sub_dir: "init",
+    vendor: true,
+}
