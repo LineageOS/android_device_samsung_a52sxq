@@ -183,6 +183,7 @@ vendor/firmware/tsp_stm/fts5cu56a_a52sxq.bin
 # Touchscreen firmware (recovery)
 vendor/firmware/tsp_stm/fts5cu56a_a52sxq.bin:recovery/root/vendor/firmware/tsp_stm/fts5cu56a_a52sxq.bin
 
+# WLAN.MSL.1.0.1.c3-00188-QCAMSLSWPLZ-1
 # Wifi firmware (bootloader revision 1) - from A528BXXU1DWA4 (T)
 vendor/firmware/wpss.b00|bbbf98507f63f2fbc6f04ed5328d88190de9f124
 vendor/firmware/wpss.b01|b01ec74238fb844a77f0dd0521f68f8aec295e22
@@ -198,6 +199,7 @@ vendor/firmware/wpss.mdt|7dd84106147f2e13e189133c5757839bba4fd680
 vendor/firmware/wlan/a528n/rev1/wpss.b01|b9dcd9ce2fa81563f9f93ed3b5cf414cf640a6b7
 vendor/firmware/wlan/a528n/rev1/wpss.mdt|20dbdadc5304730938e1ac127e9a9b2e0ba5e032
 
+# WLAN.MSL.1.0.1.c3-00195-QCAMSLSWPLZ-1
 # Wifi firmware (bootloader revision 2) - from A528BXXU2EWC1 (T)
 vendor/firmware/wlan/a528b/rev2/wpss.b00|ec9771fe39350cc2ff27c36e5fdb7f8f0ca4aeb3
 vendor/firmware/wlan/a528b/rev2/wpss.b01|3b5c6e0b4ded8456999a4fb03fd0c60fc0b067ce
@@ -221,6 +223,7 @@ vendor/firmware/wlan/a528b/rev4/wpss.mdt|b6e759833f00852e8e4ab93cc59b854eef19c52
 vendor/firmware/wlan/a528n/rev2/wpss.b01|32cb22661c41b72a598f04be119e99890b09af0c
 vendor/firmware/wlan/a528n/rev2/wpss.mdt|10dce042a9c55e6ea5c21a554f2fac10d06286b1
 
+# WLAN.MSL.1.0.1.c3-00204-QCAMSLSWPLZ-1.582278.2
 # Wifi firmware (bootloader revision 5) - from A528BXXS5EWH4 (T)
 vendor/firmware/wlan/a528b/rev5/wpss.b00|6e49240887c3130b534baa1fac897a797f895b15
 vendor/firmware/wlan/a528b/rev5/wpss.b01|517c1ea120c08ce61359d8a0de76d8047004702c
@@ -232,17 +235,7 @@ vendor/firmware/wlan/a528b/rev5/wpss.b06|5a8550f4952ac9ffa8d10280a70e92770a1d41a
 vendor/firmware/wlan/a528b/rev5/wpss.b07|ca58a5af6afcd88b0acca60d9c1da7e994b4e8a8
 vendor/firmware/wlan/a528b/rev5/wpss.mdt|b217d9f3c9df4d75bd0ffcba2d25062090dd4463
 
-# Wifi firmware (bootloader revision 3) - from A528NKSS3FXC2 (U)
-vendor/firmware/wlan/a528n/rev3/wpss.b00|4c7643e6826b0065fdc7eb9a48a8c3d3ff172cce
-vendor/firmware/wlan/a528n/rev3/wpss.b01|213bed2c41301e93de418ce18805bb091b7da24d
-vendor/firmware/wlan/a528n/rev3/wpss.b02|30b71fe8d1d25fb3f540a418deeb47f853d8d094
-vendor/firmware/wlan/a528n/rev3/wpss.b03|21c4f4c69d818c8f968bf380115041ab304f8dd8
-vendor/firmware/wlan/a528n/rev3/wpss.b04|135fffcac148bb0cc319d92557e00e90485d4f1f
-vendor/firmware/wlan/a528n/rev3/wpss.b05|761c3bd6d51ae25a419339aa3f1d4411d0585d20
-vendor/firmware/wlan/a528n/rev3/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
-vendor/firmware/wlan/a528n/rev3/wpss.b07|6a8274b400850bb3a52d1b581e61200c77a9f8c1
-vendor/firmware/wlan/a528n/rev3/wpss.mdt|8b7ee8d1a21c5904b3d1270d57f59e82f1bb0fea
-
+# WLAN.MSL.1.0.1.c3-00228-QCAMSLSWPLZ-1.47764.2
 # Wifi firmware (bootloader revision 6) - from A528BXXS6FXA1 (U)
 vendor/firmware/wlan/a528b/rev6/wpss.b00|cacb157ada108966547ba56ce85b18b5f4375b76
 vendor/firmware/wlan/a528b/rev6/wpss.b01|c8440d027fe12fd581992c3c82b17d7b71547055
@@ -254,6 +247,7 @@ vendor/firmware/wlan/a528b/rev6/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa70
 vendor/firmware/wlan/a528b/rev6/wpss.b07|a5059d526e0897c81317d8a31b64b24330ef9b08
 vendor/firmware/wlan/a528b/rev6/wpss.mdt|a6943bce230d4a096bb93d680cce49e63a045099
 
+# WLAN.MSL.1.0.1.c3-00228-QCAMSLSWPLZ-1.48103.10
 # Wifi firmware (bootloader revision 7) - from A528BXXS7FXC8 (U)
 vendor/firmware/wlan/a528b/rev7/wpss.b00|4c7643e6826b0065fdc7eb9a48a8c3d3ff172cce
 vendor/firmware/wlan/a528b/rev7/wpss.b01|11f38638385377da061640014f7fa71f518ae8e5
@@ -265,39 +259,27 @@ vendor/firmware/wlan/a528b/rev7/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa70
 vendor/firmware/wlan/a528b/rev7/wpss.b07|6a8274b400850bb3a52d1b581e61200c77a9f8c1
 vendor/firmware/wlan/a528b/rev7/wpss.mdt|6ee8baf9aaa991818a5e561915d9ff77a7eb9adf
 
-# Wifi firmware (bootloader revision 4) - from A528NKSU4GXE1 (U)
-vendor/firmware/wlan/a528n/rev4/wpss.b00|4c7643e6826b0065fdc7eb9a48a8c3d3ff172cce
-vendor/firmware/wlan/a528n/rev4/wpss.b01|beedaf669d5d02b3d6d85aa4438ba1f58e6a08e8
-vendor/firmware/wlan/a528n/rev4/wpss.b02|30b71fe8d1d25fb3f540a418deeb47f853d8d094
-vendor/firmware/wlan/a528n/rev4/wpss.b03|21c4f4c69d818c8f968bf380115041ab304f8dd8
-vendor/firmware/wlan/a528n/rev4/wpss.b04|135fffcac148bb0cc319d92557e00e90485d4f1f
-vendor/firmware/wlan/a528n/rev4/wpss.b05|761c3bd6d51ae25a419339aa3f1d4411d0585d20
-vendor/firmware/wlan/a528n/rev4/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
-vendor/firmware/wlan/a528n/rev4/wpss.b07|6a8274b400850bb3a52d1b581e61200c77a9f8c1
-vendor/firmware/wlan/a528n/rev4/wpss.mdt|abe4372f07c05d6a126961023e673a45d86cf585
-
 # Wifi firmware (bootloader revision 8) - from A528BXXS8GXE1 (U)
-vendor/firmware/wlan/a528b/rev8/wpss.b00|4c7643e6826b0065fdc7eb9a48a8c3d3ff172cce
 vendor/firmware/wlan/a528b/rev8/wpss.b01|c4dab3acd2e611260d0742ec8fcdce026985b98b
-vendor/firmware/wlan/a528b/rev8/wpss.b02|30b71fe8d1d25fb3f540a418deeb47f853d8d094
-vendor/firmware/wlan/a528b/rev8/wpss.b03|21c4f4c69d818c8f968bf380115041ab304f8dd8
-vendor/firmware/wlan/a528b/rev8/wpss.b04|135fffcac148bb0cc319d92557e00e90485d4f1f
-vendor/firmware/wlan/a528b/rev8/wpss.b05|761c3bd6d51ae25a419339aa3f1d4411d0585d20
-vendor/firmware/wlan/a528b/rev8/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
-vendor/firmware/wlan/a528b/rev8/wpss.b07|6a8274b400850bb3a52d1b581e61200c77a9f8c1
 vendor/firmware/wlan/a528b/rev8/wpss.mdt|407c1826d16784b45177c74c0e7298e64d576d70
 
 # Wifi firmware (bootloader revision 9) - from A528BXXS9GXF8 (U)
-vendor/firmware/wlan/a528b/rev9/wpss.b00|4c7643e6826b0065fdc7eb9a48a8c3d3ff172cce
 vendor/firmware/wlan/a528b/rev9/wpss.b01|126652374f752391bc88f16ab1c2403ab2df6e11
-vendor/firmware/wlan/a528b/rev9/wpss.b02|30b71fe8d1d25fb3f540a418deeb47f853d8d094
-vendor/firmware/wlan/a528b/rev9/wpss.b03|21c4f4c69d818c8f968bf380115041ab304f8dd8
-vendor/firmware/wlan/a528b/rev9/wpss.b04|135fffcac148bb0cc319d92557e00e90485d4f1f
-vendor/firmware/wlan/a528b/rev9/wpss.b05|761c3bd6d51ae25a419339aa3f1d4411d0585d20
-vendor/firmware/wlan/a528b/rev9/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
-vendor/firmware/wlan/a528b/rev9/wpss.b07|6a8274b400850bb3a52d1b581e61200c77a9f8c1
 vendor/firmware/wlan/a528b/rev9/wpss.mdt|b40d44dc49fc19d90ff1c1061f278b92ae2ea610
 
+# Wifi firmware (bootloader revision 3) - from A528NKSS3FXC2 (U)
+vendor/firmware/wlan/a528n/rev3/wpss.b01|213bed2c41301e93de418ce18805bb091b7da24d
+vendor/firmware/wlan/a528n/rev3/wpss.mdt|8b7ee8d1a21c5904b3d1270d57f59e82f1bb0fea
+
+# Wifi firmware (bootloader revision 4) - from A528NKSU4GXE1 (U)
+vendor/firmware/wlan/a528n/rev4/wpss.b01|beedaf669d5d02b3d6d85aa4438ba1f58e6a08e8
+vendor/firmware/wlan/a528n/rev4/wpss.mdt|abe4372f07c05d6a126961023e673a45d86cf585
+
+# Wifi firmware (bootloader revision 5) - from A528NKSS5GXG1 (U)
+vendor/firmware/wlan/a528n/rev5/wpss.b01|b3715ac0fb4279edea0674c55210450c49f9545c
+vendor/firmware/wlan/a528n/rev5/wpss.mdt|a565c21a4fdf414efea754cdcc7c19ba6c1ffc16
+
+# WLAN.MSL.1.0.1.c3-00228-QCAMSLSWPLZ-1.48103.31
 # Wifi firmware (bootloader revision 10) - from A528BXXSAGXK1 (U)
 vendor/firmware/wlan/a528b/rev10/wpss.b00|8575e1dcc60ceabcdd71614bf166b43516dc9581
 vendor/firmware/wlan/a528b/rev10/wpss.b01|db90bc41c9b79d2eddff9a5f8307351cd1b3be35
@@ -313,28 +295,11 @@ vendor/firmware/wlan/a528b/rev10/wpss.mdt|3124463e127d6735d35edd1bc72a3326b385cd
 vendor/firmware/wlan/a528b/rev11/wpss.b01|2b1457bf7d6c2f5b234f9474cc77ee022d8eed88
 vendor/firmware/wlan/a528b/rev11/wpss.mdt|e068aa47662cf02c66c9e51d9a93a8f06a3b048e
 
-# Wifi firmware (bootloader revision 5) - from A528NKSS5GXG1 (U)
-vendor/firmware/wlan/a528n/rev5/wpss.b00|4c7643e6826b0065fdc7eb9a48a8c3d3ff172cce
-vendor/firmware/wlan/a528n/rev5/wpss.b01|b3715ac0fb4279edea0674c55210450c49f9545c
-vendor/firmware/wlan/a528n/rev5/wpss.b02|30b71fe8d1d25fb3f540a418deeb47f853d8d094
-vendor/firmware/wlan/a528n/rev5/wpss.b03|21c4f4c69d818c8f968bf380115041ab304f8dd8
-vendor/firmware/wlan/a528n/rev5/wpss.b04|135fffcac148bb0cc319d92557e00e90485d4f1f
-vendor/firmware/wlan/a528n/rev5/wpss.b05|761c3bd6d51ae25a419339aa3f1d4411d0585d20
-vendor/firmware/wlan/a528n/rev5/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
-vendor/firmware/wlan/a528n/rev5/wpss.b07|6a8274b400850bb3a52d1b581e61200c77a9f8c1
-vendor/firmware/wlan/a528n/rev5/wpss.mdt|a565c21a4fdf414efea754cdcc7c19ba6c1ffc16
-
 # Wifi firmware (bootloader revision 6) - from A528NKSU6GXK3 (U)
-vendor/firmware/wlan/a528n/rev6/wpss.b00|8575e1dcc60ceabcdd71614bf166b43516dc9581
 vendor/firmware/wlan/a528n/rev6/wpss.b01|6138994baafc43ef4a207d6ea5c2cf5c33085fea
-vendor/firmware/wlan/a528n/rev6/wpss.b02|aad880e803217c6e3d0a26dc7caa73d157330c72
-vendor/firmware/wlan/a528n/rev6/wpss.b03|faa8ea4c7d78d00e891423b87f4a9f78c66f425c
-vendor/firmware/wlan/a528n/rev6/wpss.b04|966ced8b50a6476c9090669e053a2975ba21f297
-vendor/firmware/wlan/a528n/rev6/wpss.b05|f38b129c4f6227477511859a6249a3481c4a07f9
-vendor/firmware/wlan/a528n/rev6/wpss.b06|7e68827f93f83f312ab0bc02af48383e6defa707
-vendor/firmware/wlan/a528n/rev6/wpss.b07|748df8e5e00a69d9ead466924833f87b525eda7f
 vendor/firmware/wlan/a528n/rev6/wpss.mdt|2da5e47672920cc7b7d98ad1f6d56e8cdfcb3b85
 
+# WLAN.MSL.1.0.1.c3-00228-QCAMSLSWPLZ-1.48103.42
 # Wifi firmware (bootloader revision 7) - from A528NKSS7GYD2 (U)
 vendor/firmware/wlan/a528n/rev7/wpss.b00|60eb610a46716181d440a548521f9182c5571724
 vendor/firmware/wlan/a528n/rev7/wpss.b01|aeb0819aa3e5797d8a05f6b8679358d6faf38d3a
