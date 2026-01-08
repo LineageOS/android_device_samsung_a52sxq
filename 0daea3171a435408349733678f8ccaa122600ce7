@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "6f3728e7_20e854cd",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 310,
+      "author": {
+        "id": 36296
+      },
+      "writtenOn": "2026-01-08T16:27:34Z",
+      "side": 1,
+      "message": "We could also deduplicate 3 wpss.b06 files that have the same hash across multiple firmware versions",
+      "range": {
+        "startLine": 310,
+        "startChar": 41,
+        "endLine": 310,
+        "endChar": 81
+      },
+      "revId": "0daea3171a435408349733678f8ccaa122600ce7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
