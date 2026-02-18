@@ -34,6 +34,24 @@
       "parentUuid": "62c0aa76_73e6697a",
       "revId": "8f35b69d89d59f34d4516b9d793b241ec69138a3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0b8d19cd_d7e911d2",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25276
+      },
+      "writtenOn": "2026-02-18T15:59:17Z",
+      "side": 1,
+      "message": "Forget what I said, this isn\u0027t needed at all. Simply adding hardware/qcom-caf/sm8350 to soong namepsace imports fixes it.",
+      "parentUuid": "2098c404_833e531c",
+      "revId": "8f35b69d89d59f34d4516b9d793b241ec69138a3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
