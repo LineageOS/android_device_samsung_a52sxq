@@ -16,6 +16,24 @@
       "message": "Is this still needed?",
       "revId": "8f35b69d89d59f34d4516b9d793b241ec69138a3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2098c404_833e531c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 25276
+      },
+      "writtenOn": "2026-02-18T15:38:09Z",
+      "side": 1,
+      "message": "This is needed for PY extract files. Otherwise this conflicts with the one in hardware/qcom-caf/sm8350/",
+      "parentUuid": "62c0aa76_73e6697a",
+      "revId": "8f35b69d89d59f34d4516b9d793b241ec69138a3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
