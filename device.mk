@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
 # Init files
 PRODUCT_PACKAGES += \
     init.a52sxq.rc \
+    ssu_a52sxqxx.rc \
     wifi_firmware.rc
 
 # Audio

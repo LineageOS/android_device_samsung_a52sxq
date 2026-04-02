@@ -62,7 +62,11 @@ on post-fs
     mkdir /efs/carrier 0755 radio system
 
 on post-fs-data
+# Samsung Pay
+    mkdir /efs/pfw_data 0760 vendor_spay vendor_spay
+
 # MST/NFC Switch
+    chown vendor_spay system /dev/mst_ctrl
     chmod 0660 /dev/mst_ctrl
 
 on init
@@ -152,10 +156,6 @@ service heimdalld /system/bin/heimdalld
     capabilities NET_ADMIN SYS_NICE KILL CHOWN
     socket heimdalld seqpacket 0660 system system
     oneshot
-
-# SSU (Samsung SIM Unlock)
-on property:ro.boot.carrierid=MXO
-    setprop ssu.support 1
 
 # some priv-apps of SPR bind mount to TMB priv-apps
 on post-fs-data && property:ro.csc.sales_code=TMB

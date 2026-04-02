@@ -11,6 +11,13 @@ prebuilt_etc {
 }
 
 prebuilt_etc {
+    name: "ssu_a52sxqxx.rc",
+    src: "ssu_a52sxqxx.rc",
+    sub_dir: "init/hw",
+    soc_specific: true,
+}
+
+prebuilt_etc {
     name: "wifi_firmware.rc",
     src: "wifi_firmware.rc",
     sub_dir: "init",
