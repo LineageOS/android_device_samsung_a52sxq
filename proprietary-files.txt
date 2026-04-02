@@ -159,6 +159,9 @@ vendor/lib64/libegis_fp_normal_sensor_test.so
 vendor/lib64/libqfp_sensortest.so
 vendor/lib64/libgf_in_system_lib.so
 
+# GPS
+vendor/etc/izat.conf
+
 # Graphics
 vendor/etc/qdcm_calib_data_ss_dsi_panel_S6E3FC3_AMS646YD01_LO_FHD.xml
 
