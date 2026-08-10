@@ -177,6 +177,9 @@ vendor/etc/sensors/config/kodiak_lsm6dso_0.json
 vendor/etc/sensors/config/kodiak_stk31610_0.json
 vendor/etc/sensors/config/lsm6dso_0.json
 
+# Thermal config
+vendor/etc/mercury.json
+
 # Touchscreen firmware
 vendor/firmware/tsp_stm/fts5cu56a_a52sxq.bin
 
