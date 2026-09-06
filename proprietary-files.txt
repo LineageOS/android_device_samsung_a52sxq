@@ -4,6 +4,7 @@
 vendor/lib/hw/audio.primary.lahaina.so
 vendor/lib/libspeakercalibration.so
 vendor/firmware/dax_param.bin
+vendor/etc/SoundBoosterParam.txt
 
 # ACDB
 vendor/etc/audconf/ODM/Global_cal.acdb
